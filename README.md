@@ -1,6 +1,6 @@
 # MPEP-Chatbot
 
-MPEP-Chatbot is a tool that converts the Manual of Patent Examining Procedure (MPEP) from the USPTO's Reference Document Management System (RDMS) into a structured JSON format and utilizes LlamaIndex to create an interactive chatbot. This enables users to query and interact with MPEP content seamlessly.
+MPEP-Chatbot is a tool that converts the Manual of Patent Examining Procedure (MPEP) from the USPTO's Reference Document Management System (RDMS) into a structured JSON format and utilizes LlamaIndex to create an interactive chatbot. This enables users to query and interact with MPEP content seamlessly. It was demo'ed on an airgapped laptop at USPTO Community Day 2024 using a Microsoft Phi LLM.
 
 ## Table of Contents
 
@@ -105,6 +105,4 @@ We welcome contributions to enhance MPEP-Chatbot. To contribute:
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
 
-Special thanks to the contributors and the open-source community for their invaluable support.
