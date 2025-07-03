@@ -76,30 +76,6 @@ Before using MPEP-Chatbot, ensure you have the following installed:
 
    Open and run the `llama_indexer.ipynb` notebook to create an interactive chatbot using the processed MPEP data.
 
-## Contributing
-
-We welcome contributions to enhance MPEP-Chatbot. To contribute:
-
-1. Fork the repository.
-2. Create a new branch:
-
-   ```bash
-   git checkout -b feature-branch-name
-   ```
-
-3. Make your changes and commit them:
-
-   ```bash
-   git commit -m "Description of changes"
-   ```
-
-4. Push to the branch:
-
-   ```bash
-   git push origin feature-branch-name
-   ```
-
-5. Open a Pull Request detailing your changes.
 
 ## License
 
